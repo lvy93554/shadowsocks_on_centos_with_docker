@@ -1,2 +1,6 @@
 # shadowsocks_on_centos_with_docker
-docker install ss+v2ray-plugin 
+
+Install shadowsocks-libev + v2ray-plugin on CentOS 7 with docker
+
+Use the privoxy service to convert socks5 traffic into Http traffic
+
